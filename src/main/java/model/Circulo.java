@@ -11,11 +11,11 @@ public class Circulo {
       this(0);
    }
 
-   // GETTERS AND SETTERS 
    public Circulo(double raio) {
       this.raio = raio;
    }
 
+   // GETTERS AND SETTERS 
    public double getRaio() {
       return raio;
    }
